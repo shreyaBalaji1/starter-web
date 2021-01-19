@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.
 
 ##Introduction
 
@@ -12,8 +12,12 @@ Sample website with plenty of files for demos. As stated abovem the main purpose
 
 ##Deployment
 
-Deployment text XXXXXXXXX
+Deployment text XXXXXXXXX.
 
 This is a simple web project, deployment can be on any web server or even local file system.
 
 ##How to Contribute
+
+###Copoyright
+
+2014 Git.Training.
