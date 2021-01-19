@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Vardhini Sundararajan	vardhini.thepillar@gmail.com	@vardhinitwitter
 
 # THANKS
 
